@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou Aline uma estudante de análise e desenvolvimento de sistemas.  
+Sou Aline, estudante de análise e desenvolvimento de sistemas.  
 
 - 📫 A procura de um estágio ou vaga de desenvolvimento júnior.
