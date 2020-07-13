@@ -1,5 +1,7 @@
 ### Aline Soares da Silva 👩🏻‍💻
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-soares-da-silva)](https://www.linkedin.com/in/aline-soares-da-silva) [![GitHub Bagde](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+
 ### Olá 👋
 
 <!--
