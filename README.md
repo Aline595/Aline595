@@ -1,4 +1,4 @@
-### Aline Soares da Silva
+### Aline Soares da Silva 👩🏻‍💻
 
 ### Olá 👋
 
