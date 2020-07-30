@@ -6,6 +6,7 @@
 
 ### Olá 👋
 
+![WhatsApp Video 2020-07-29 at 22 44 38 (1)](https://user-images.githubusercontent.com/56769013/88871371-1ac8a480-d1ee-11ea-83e6-69073229a8f7.gif)
 <!--
 **Aline595/Aline595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
