@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 I am Aline from Brazil and a student of system analysis and development at Fatec. 
 
 - 📫 I am looking for a junior development internsship or vacancy.
+- 🌱 I’m currently learning React, NodeJs and ReactNative.
+- 💬 Ask me about anything.
