@@ -42,6 +42,8 @@ I am Aline from Brazil and a student of system analysis and development at Fatec
 [![css Bagde](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
 [![Bootstrap Bagde](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
 [![Typescript Bagde](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![php Bagde](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![sql Bagde](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
 
 
 ![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true)
