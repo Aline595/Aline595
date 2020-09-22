@@ -26,3 +26,6 @@ I am Aline from Brazil and a student of system analysis and development at Fatec
 - 📫 I am looking for a junior development internsship or vacancy.
 - 🌱 I’m currently learning React, NodeJs and ReactNative.
 - 💬 Ask me about anything.
+
+![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true&theme=cobalt)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html&theme=cobalt" alt="aline" />
