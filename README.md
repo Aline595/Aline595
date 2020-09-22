@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true&theme=cobalt)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html&theme=cobalt" alt="aline" />
+![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html" alt="aline" />
 -->
 I am Aline from Brazil and a student of system analysis and development at Fatec. 
 
@@ -46,5 +46,6 @@ I am Aline from Brazil and a student of system analysis and development at Fatec
 [![sql Bagde](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
 
 
-![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html" alt="aline" />
+
+![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true&theme=cobalt)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html&theme=cobalt" alt="aline" />
