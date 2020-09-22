@@ -4,6 +4,8 @@
 [![GitHub Bagde](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
 [![Gmail Bagde](https://img.shields.io/badge/-aline.as385@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aline.as385@gmail.com)](mailto:aline.as385@gmail.com)
 
+![profileViers](https://komarev.com/ghpvc/?username=your-github-Aline595&color=ff69b4)
+
 ### Hello 👋
 
 ![WhatsApp Video 2020-07-29 at 22 44 38 (1)](https://user-images.githubusercontent.com/56769013/88871371-1ac8a480-d1ee-11ea-83e6-69073229a8f7.gif)
