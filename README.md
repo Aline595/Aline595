@@ -32,5 +32,17 @@ I am Aline from Brazil and a student of system analysis and development at Fatec
 - 🌱 I’m currently learning React, NodeJs and ReactNative.
 - 💬 Ask me about anything.
 
+### Technologies
+[![JavaScript Bagde](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![React Bagde](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Node Bagde](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=nodejs&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Python Bagde](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Java Bagde](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![HTML Bagde](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![css Bagde](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Bootstrap Bagde](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Typescript Bagde](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+
+
 ![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html" alt="aline" />
