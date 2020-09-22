@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true&theme=cobalt)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html&theme=cobalt" alt="aline" />
 -->
 I am Aline from Brazil and a student of system analysis and development at Fatec. 
 
@@ -27,5 +30,5 @@ I am Aline from Brazil and a student of system analysis and development at Fatec
 - 🌱 I’m currently learning React, NodeJs and ReactNative.
 - 💬 Ask me about anything.
 
-![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true&theme=cobalt)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html&theme=cobalt" alt="aline" />
+![Aline's github stats](https://github-readme-stats.vercel.app/api?username=Aline595&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline595&hide=html" alt="aline" />
