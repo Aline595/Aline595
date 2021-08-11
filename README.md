@@ -68,7 +68,7 @@
   <img align="center" alt="tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"> 
   <img align="center" alt="yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="maquina-virtual" height="30" width="40" src="https://img.icons8.com/color/452/virtualbox.png">
-  <img align="center" alt="notion" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg">
+ <!-- <img align="center" alt="notion" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg">-->
   <img align="center" alt="anydesk" height="30" width="40" src="https://iconape.com/wp-content/png_logo_vector/anydesk-logo.png">
   <img align="center" alt="Jira" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/33_jira-icon.6a60be29f8.png">
   <img align="center" alt="Teams" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png">
