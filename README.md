@@ -57,6 +57,8 @@
   <h3>Em estudo</h3>
 <img align="center" alt="Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="mock" height="40" width="80" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
+  <img align="center" alt="robot" height="40" width="80" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png">
+  
   
 </div>
   
