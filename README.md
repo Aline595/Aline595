@@ -3,6 +3,10 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=your-github-Aline595&color=ff69b4">
 </div>
 
+QA Engineer com 5 anos de experiência em testes manuais e automatizados para aplicações Web, Mobile e APIs.
+
+Atualmente atuo com automação de testes, validação de requisitos, criação de cenários de teste e garantia da qualidade em ambientes ágeis.
+
 - 🔭 Trabalho como analista de testes automatizados.  
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas pela Fatec.  
 - 🌱 Atualmente aprendendo mais sobre testes automatizados.
